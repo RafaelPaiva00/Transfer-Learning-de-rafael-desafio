@@ -13,7 +13,7 @@ export const Hero = () => {
             inovadoras e resultados comprovados.
           </p>
           <div className="flex justify-center">
-            <Button size="lg" variant="secondary" className="text-lg glass">
+            <Button size="lg" variant="secondary" className="text-lg glass px-12 py-6 text-xl">
               Ver Demonstração
             </Button>
           </div>
