@@ -8,7 +8,7 @@ const features = [
   },
   {
     icon: <BarChart3 className="h-8 w-8" />,
-    title: "Análise Avançada",
+    title: "Gestão de Clientes",
     description: "Acompanhe métricas e resultados em tempo real"
   },
   {
