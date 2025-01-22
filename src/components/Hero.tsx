@@ -14,7 +14,7 @@ export const Hero = () => {
           </p>
           <div className="flex justify-center">
             <Button size="lg" variant="secondary" className="text-lg glass px-16 py-8 text-2xl">
-              Ver Demonstração
+              Demonstração
             </Button>
           </div>
         </div>
