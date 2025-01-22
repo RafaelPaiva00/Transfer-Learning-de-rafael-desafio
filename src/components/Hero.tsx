@@ -12,10 +12,7 @@ export const Hero = () => {
             A plataforma completa para impulsionar seu negócio com soluções 
             inovadoras e resultados comprovados.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button size="lg" className="text-lg bg-green-600 hover:bg-green-700">
-              Começar Agora
-            </Button>
+          <div className="flex justify-center">
             <Button size="lg" variant="secondary" className="text-lg glass">
               Ver Demonstração
             </Button>
