@@ -4,7 +4,7 @@ const features = [
   {
     icon: <TrendingUp className="h-8 w-8" />,
     title: "Aumento nas Vendas",
-    description: "Aumente sua receita com nossas ferramentas otimizadas"
+    description: "Aumente sua receita com automação de vendas e gestão de leads qualificados"
   },
   {
     icon: <Users2 className="h-8 w-8" />,
@@ -14,7 +14,7 @@ const features = [
   {
     icon: <ShieldCheck className="h-8 w-8" />,
     title: "Segurança Total",
-    description: "Proteção completa para suas transações e dados"
+    description: "Proteção completa para seus dados e informações de clientes em conformidade com a LGPD"
   }
 ];
 
@@ -27,7 +27,7 @@ export const Features = () => {
             Por Que Escolher Zubi?
           </h2>
           <p className="text-muted-foreground">
-            Benefícios que impulsionam seu sucesso
+            O CRM que impulsiona seu sucesso
           </p>
         </div>
         
