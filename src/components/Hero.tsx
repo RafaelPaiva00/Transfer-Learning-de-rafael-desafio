@@ -5,7 +5,7 @@ export const Hero = () => {
     <section className="min-h-screen flex items-center justify-center pt-20">
       <div className="container px-4 mx-auto text-center">
         <div className="max-w-3xl mx-auto space-y-8">
-          <h1 className="text-5xl md:text-7xl font-bold text-gradient">
+          <h1 className="text-4xl md:text-6xl font-bold text-gradient">
             Transforme Suas Vendas com Zubi
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground">
