@@ -6,18 +6,18 @@ export const Hero = () => {
       <div className="container px-4 mx-auto text-center">
         <div className="max-w-3xl mx-auto space-y-8">
           <h1 className="text-5xl md:text-7xl font-bold text-gradient">
-            Design Moderno & Elegante
+            Transforme Suas Vendas com Zubi
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground">
-            Uma experiência única com interface moderna e minimalista,
-            perfeita para seus projetos.
+            A plataforma completa para impulsionar seu negócio com soluções 
+            inovadoras e resultados comprovados.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button size="lg" className="text-lg">
+            <Button size="lg" className="text-lg bg-green-600 hover:bg-green-700">
               Começar Agora
             </Button>
             <Button size="lg" variant="secondary" className="text-lg glass">
-              Saiba Mais
+              Ver Demonstração
             </Button>
           </div>
         </div>
