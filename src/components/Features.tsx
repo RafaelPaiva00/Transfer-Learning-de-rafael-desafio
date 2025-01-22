@@ -1,4 +1,4 @@
-import { TrendingUp, ShieldCheck, BarChart3 } from "lucide-react";
+import { TrendingUp, Users2, ShieldCheck } from "lucide-react";
 
 const features = [
   {
@@ -7,9 +7,9 @@ const features = [
     description: "Aumente sua receita com nossas ferramentas otimizadas"
   },
   {
-    icon: <BarChart3 className="h-8 w-8" />,
+    icon: <Users2 className="h-8 w-8" />,
     title: "Gestão de Clientes",
-    description: "Acompanhe métricas e resultados em tempo real"
+    description: "Gerencie relacionamentos e acompanhe o histórico completo dos seus clientes"
   },
   {
     icon: <ShieldCheck className="h-8 w-8" />,
