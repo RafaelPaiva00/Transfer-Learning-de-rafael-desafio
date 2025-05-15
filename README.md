@@ -10,7 +10,8 @@ Este projeto consiste em aplicar o método de Transfer Learning com Python no Go
 - Avaliação e visualização de métricas de validação/teste
 
 ## Executar no Google Colab
-[🔗 Abrir notebook no Colab](https://colab.research.google.com/github/kylemath/ml4a-guides/blob/master/notebooks/transfer-learning.ipynb)
+[🔗 Abrir notebook no Colab](https://colab.research.google.com/github/RafaelPaiva00/Transfer-Learning-de-rafael-desafio/blob/main/notebooks/transfer-learning.ipynb
+)
 
 ## Autor
 Rafael Paiva
